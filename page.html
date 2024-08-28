@@ -35,7 +35,7 @@
             border-radius: 4px;
         }
         .login-container button {
-            width: 100%;
+            width: 99%;
             padding: 10px;
             border: none;
             border-radius: 4px;
